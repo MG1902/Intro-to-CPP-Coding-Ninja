@@ -9,7 +9,10 @@ Contains the solutions for the programming questions in the Coding Ninjas Intro 
 
 
 Connect with Me:
+
 https://www.codechef.com/users/crazy_coder19
+
+
 g.manish1902@gmail.com
 
 
