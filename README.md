@@ -19,6 +19,10 @@ g.manish1902@gmail.com
 manish19029643@gmail.com
 
 
+Coding Profiles:
+
 https://www.codechef.com/users/crazy_coder19
 
+
+https://auth.geeksforgeeks.org/user/mg5439218/profile
 
